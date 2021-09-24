@@ -1,5 +1,5 @@
 {
-  "name": "MIKEL",
+  "name": "Jangan-Ubah-Iky-Ads",
   "version": "1.0.0",
   "description": "Gak Ada",
   "main": "main.js",
@@ -10,9 +10,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "mikel",
+  "author": "nino",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.2",
+  "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "axios": "^0.21.1",
     "brainly-scraper": "^1.0.3",
     "chalk": "^4.1.1",
@@ -37,12 +37,16 @@
     "util": "^0.12.4",
     "yt-search": "^2.8.0"
   },
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rizkiadiasa/"
+    "url": "git+https://github.com/rizkiadiasa/NinoWangy"
   },
   "bugs": {
-    "url": "https://github.com/rizkiadiasa/isues"
+    "url": "https://github.com/rizkiadiasa/NinoWangy/issues"
   },
-  "homepage": "https://github.com/rizkiadiasa#readme"
+  "homepage": "https://github.com/rizkiadiasa/NinoWangy#readme"
 }
